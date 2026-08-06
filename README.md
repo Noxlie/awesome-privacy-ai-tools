@@ -43,6 +43,7 @@ AI assistants and tools that prioritize user privacy and data protection. For de
 | **[Private LLM](https://privatellm.app)** | Local AI assistant that runs entirely on your device | [Review](https://ai-privacy-tools.vercel.app/privacy-ai/private-llm) |
 | **[Khoj](https://khoj.dev)** | Open-source personal AI that runs locally with your data | [Review](https://ai-privacy-tools.vercel.app/privacy-ai/khoj) |
 | **[Jan](https://jan.ai)** | Offline-capable AI assistant that runs models locally | [Review](https://ai-privacy-tools.vercel.app/privacy-ai/jan) |
+| **[Metadata Remover](https://metadataremover.ai/ai-metadata-remover)** | Remove AI-generated image metadata locally in the browser; no upload or signup | — |
 
 *Learn more:* [Best Privacy AI Tools 2026](https://ai-privacy-tools.vercel.app/privacy-ai)
 

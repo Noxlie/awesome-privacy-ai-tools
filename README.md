@@ -201,6 +201,7 @@ Run AI models locally for complete privacy. See our [Self-Hosted AI Guide](https
 - 🌐 **[AI Privacy Tools Hub](https://ai-privacy-tools.vercel.app)** — Comprehensive reviews, guides, and comparisons
 - 📖 **[Privacy Guides](https://privacyguides.org)** — Community-driven privacy recommendations
 - 🔍 **[EFF Surveillance Self-Defense](https://ssd.eff.org)** — Digital security education
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ---
 

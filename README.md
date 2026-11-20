@@ -40,6 +40,7 @@ AI assistants and tools that prioritize user privacy and data protection. For de
 | **[Venice AI](https://venice.ai)** | Uncensored, private AI chat with no data logging | [Review](https://ai-privacy-tools.vercel.app/privacy-ai/venice-ai) |
 | **[DuckDuckGo AI Chat](https://duckduckgo.com/chat)** | Anonymous AI chat from the privacy-focused search engine | [Review](https://ai-privacy-tools.vercel.app/privacy-ai/duckduckgo-ai) |
 | **[NanoGPT](https://nano-gpt.com)** | Pay-per-use AI with no account required, accepts crypto | [Full Guide](https://ai-privacy-tools.vercel.app/nano-gpt/test) |
+| **[Morse](https://trymorse.ai/?src=gh-awesome-privacy-ai-tools)** | Private AI chat with GPT, Claude, Gemini, DeepSeek, and uncensored models, with chats stored encrypted on your device | [Privacy](https://trymorse.ai/privacy) |
 | **[Private LLM](https://privatellm.app)** | Local AI assistant that runs entirely on your device | [Review](https://ai-privacy-tools.vercel.app/privacy-ai/private-llm) |
 | **[Khoj](https://khoj.dev)** | Open-source personal AI that runs locally with your data | [Review](https://ai-privacy-tools.vercel.app/privacy-ai/khoj) |
 | **[Jan](https://jan.ai)** | Offline-capable AI assistant that runs models locally | [Review](https://ai-privacy-tools.vercel.app/privacy-ai/jan) |
